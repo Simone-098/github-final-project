@@ -4,7 +4,7 @@
    # Non utilizzare questo in produzione. Solo per scopo dimostrativo.
    # Autore: Upkar Lidder (IBM)
    # Autori aggiuntivi:
-   # <il tuo nome utente GitHub>
+   # Simone-098
    # Input:
    # p, importo principale
    # t, periodo di tempo in anni
